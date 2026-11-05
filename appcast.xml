@@ -6,6 +6,21 @@
     <description>Updates of SRG+ Teams for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.2 (202611050128)</title>
+      <pubDate>Thu, 05 Nov 2026 01:31:57 +0000</pubDate>
+      <sparkle:version>202611050128</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- A Table view for each space: switch between List, Table and Columns, edit cells in place and group rows. Esc and Delete work as shortcuts.
+- Custom fields: set them up in Settings › Fields, fill them in on a card and show them as table columns.
+- A search field over the Spaces list on Home.
+- Analytics shows By Person, By Client and By Scope side by side.
+- SRG+ Teams now connects through teams.srgplus.com.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-teams-macos/releases/latest/download/SRG-Plus-Teams.dmg" type="application/octet-stream" sparkle:edSignature="EubyF0LG/OttTEIeOWZPoVGL+jevztKjoqBKfrBgXWmMogU9CyR7wm/pgv3XsL4VZWstnv5Xt4xZxwVQrzXuDQ==" length="12821278" />
+    </item>
+    <item>
       <title>1.0.1 (202610200638)</title>
       <pubDate>Tue, 20 Oct 2026 06:42:58 +0000</pubDate>
       <sparkle:version>202610200638</sparkle:version>
