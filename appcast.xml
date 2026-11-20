@@ -6,6 +6,17 @@
     <description>Updates of SRG+ Teams for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>1.0.4 (202611200548)</title>
+      <pubDate>Fri, 20 Nov 2026 05:51:24 +0000</pubDate>
+      <sparkle:version>202611200548</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Update at the top.** When a new version is ready, a blue Update button shows at the top right of the window. One click installs it and reopens the app; without a click it still installs when you quit.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-teams-macos/releases/latest/download/SRG-Plus-Teams.dmg" type="application/octet-stream" sparkle:edSignature="9sB5KJg41z3Oten8GsTaRDXeak5zleuAnAEtjHku4CzJ4dH7dpB7vUvDYoaPmJ0COYubYBdxL0yFgdZc2SztAA==" length="12948128" />
+    </item>
+    <item>
       <title>1.0.3 (202611182136)</title>
       <pubDate>Wed, 18 Nov 2026 21:40:33 +0000</pubDate>
       <sparkle:version>202611182136</sparkle:version>
